@@ -1,5 +1,7 @@
 # nomore-soldouts-coupang
 
+https://chrome.google.com/webstore/detail/nomoresoldoutcoupang/naimgjigjdelgioidicckaaekldbnbmf
+
 쿠팡 상품 목록에서 품절된 항목들을 숨겨줍니다. 
 
 
